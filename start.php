@@ -15,6 +15,6 @@
 		
 	}
 
-register_elgg_event_handler('create','user','set_user_redirect');
+register_elgg_event_handler('firstlogin','user','set_user_redirect');
 
 ?>
