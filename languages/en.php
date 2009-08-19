@@ -1,10 +1,10 @@
 <?php
 	$english = array(
 		// Main title
-		'first_login_redirector' => "Login Redirector",
+		'first_login_redirector' => "First Login Redirector",
 		
 		// Admin configuration
-		'first_login_redirector:admin:config' => "Select the page users will go to after they are logged in:",
+		'first_login_redirector:admin:config' => "Select the page users will go to after they log in for the first time:",
 		'first_login_redirector:admin:option:custom_redirect' => "Use custom redirect",
 	
 		'first_login_redirector:admin:custom_redirect' => "Enter a custom redirect here",

@@ -3,10 +3,10 @@
 	<field key="author" value="Ethan Jucovy" />
 	<field key="version" value="0.1" />
 	<field key="description" value="Redirect users after first login only" />
-	<field key="website" value="http://www.globalmdp.org" />
-	<field key="copyright" value="I don't know" />
+	<field key="website" value="community.elgg.org" />
 	<field key="licence" value="GNU Public License version 3" />
 </plugin_manifest>
+
 <!--
 
 forked from LoginRedirector 2.0 plugin by jeroen dalsem
